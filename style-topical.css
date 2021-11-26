@@ -1,0 +1,49 @@
+/* ********************************************* */
+/* HERO SECTION  */
+/* ********************************************* */
+
+.section-hero {
+  padding: 8rem 0;
+  background: linear-gradient(#ffd43b, #fff);
+}
+
+/* ********************************************* */
+/* MAIN SECTION  */
+/* ********************************************* */
+
+.section-main {
+  padding: 9.6rem 0;
+}
+
+.obj-img {
+  width: 100%;
+  border-radius: 5rem;
+  margin-bottom: 1.6rem;
+}
+
+.obj-img-mini {
+  height: 27%;
+}
+
+.obj-text {
+  font-size: 1.8rem;
+  line-height: 1.8;
+}
+
+.end-obj {
+  padding: 9.6rem 0;
+}
+
+.grid-first {
+  margin-bottom: 7.4rem;
+}
+
+/* ********************************************* */
+/* PHONE MODE SECTION */
+/* ********************************************* */
+
+@media screen and (max-width: 1000px) {
+  .heading-primary {
+    font-size: 3rem;
+  }
+}
